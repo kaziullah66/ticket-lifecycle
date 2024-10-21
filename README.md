@@ -25,77 +25,35 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462555108_788095580041240_577899373957354862_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=GRjx0ZSEkLEQ7kNvgHARk_u&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AkCO-VhoIb9kTfwjPImtxYR&oh=03_Q7cD1QF9FdONm_8-PiQf8yexRD5dBF247Rwoz994rXB9QeRwtQ&oe=673E3326"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating a ticket as an end user John.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462550349_796514105836914_7769584164943110734_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=GCAdWFZ1yYIQ7kNvgFIfk_h&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AJ216dA-rJApb07ZV9QX-6K&oh=03_Q7cD1QFdXGRnkU__zckzFFd3PIU233UJTSZl6G9DUI-7G92f6A&oe=673E2BD9"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We have logged in as Agent 1, categorized the ticket sent in by John, and assigned it to another employee to handle Agent 2.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462541482_3797645207141546_2800116791954960544_n.png?_nc_cat=105&ccb=1-7&_nc_sid=9f807c&_nc_ohc=DWHkv5dSsOEQ7kNvgFdWO5q&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AN5SDgcaI81d4uxnQ40v6tR&oh=03_Q7cD1QGnSHqZsXqjqQCEshnMKpo7SvATcBC10YyuLLl7O2CL8A&oe=673E4C79"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Thread of updates between the team, Agent 1 and Agent 2.
 </p>
 <br />
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/462542773_4141619566070009_4515321231102886516_n.png?_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=BDqohojkMoIQ7kNvgE5qgU_&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=AV6jGx3uK-Oy1I8Jm3gfV39&oh=03_Q7cD1QFHIvJIE9nYI1lUb0ICKMCvQQZ-xfO4JmgL72CBgsnKmg&oe=673E3408"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket was handled and closed.
 </p>
 <br />
 
