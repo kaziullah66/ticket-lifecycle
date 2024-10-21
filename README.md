@@ -36,7 +36,7 @@ Creating a ticket as an end user John.
 <img src="https://scontent-lga3-2.xx.fbcdn.net/v/t1.15752-9/462550349_796514105836914_7769584164943110734_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=GCAdWFZ1yYIQ7kNvgFIfk_h&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=AJ216dA-rJApb07ZV9QX-6K&oh=03_Q7cD1QFdXGRnkU__zckzFFd3PIU233UJTSZl6G9DUI-7G92f6A&oe=673E2BD9"/>
 </p>
 <p>
-We have logged in as Agent 1, categorized the ticket sent in by John, and assigned it to another employee to handle Agent 2.
+We have logged in as Agent 1, categorized the ticket sent in by John, and assigned it to Agent 2, another employee, to handle.
 </p>
 <br />
 
