@@ -33,7 +33,7 @@ Creating a ticket as an end user John.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Kr2tR9F.png"/>
+<img src="https://i.imgur.com/kGxYY7h.png"/>
 </p>
 <p>
 We have logged in as Agent 1, categorized the ticket sent in by John, and assigned it to Agent 2, another employee, to handle.
